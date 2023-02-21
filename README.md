@@ -1,5 +1,5 @@
 # RecommendSystem
-## 프로젝트 개요
+## 프로젝트 배경
 ![image](https://user-images.githubusercontent.com/110091343/218765593-66d06397-6cae-41a3-88b4-2283af9fae1d.png)
 
 코로나19 대유행으로 비대면 문화가 확산되고 디지털 전환이 가속화됨에 따라 이커머스 시장은 급격한 성장을 이루었습니다. 하지만 2017년 이후 연평균 20%대의 고성장을 기록하던 이커머스 시장이 저성장 구간에 진입하는 것으로 보입니다. 증권가는 올해 국내 온라인 쇼핑 시장의 [성장률이 9~13% 수준](https://biz.chosun.com/distribution/channel/2022/01/10/VURET6JTVZARXN7HQ4W6TYW6AY/)으로 하락할 것으로 전망합니다.
